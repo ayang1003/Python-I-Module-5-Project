@@ -1,2 +1,2 @@
 # Python-I-Module-5-Project
-This project mainly focuses on slicing, for loops, and if statements.
+This project mainly focuses on slicing, for loops, and if statements. The first part prints the variable "longWord" backwards, prints the first and last character of said variable, and prints how many vowels are in it. The second part prints a user-given phrase in reverse and replaces the letters "a", "e", "i", and "o" in said phrase with "@", "#", "%", and "*" respectably in order to create a sort of coded message.
